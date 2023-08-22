@@ -31,9 +31,7 @@ header nav a:hover {
   justify-content: center;
   align-items: center;
   font-family: "Tektur", cursive;
-  height: 100vh;
   color: white;
-  height: 100vh;
   background-image: linear-gradient(
     to left bottom,
     #363434,
@@ -73,7 +71,7 @@ header nav a:hover {
   color: rgb(0, 0, 0);
 }
 .aboutme {
-  height: 100vh;
+  padding: 10px;
   background-image: url("bgimg.jfif");
   background-size: cover;
   background-position: center;
